@@ -1,4 +1,4 @@
-FROM opensuse:15.1
+FROM opensuse
 
 EXPOSE 80 443 22 24
 COPY baseline /baseline
